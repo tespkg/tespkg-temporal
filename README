@@ -1,0 +1,1 @@
+This repo build and pushes tespkg/temporal to dockerhub. It downloads the temporal cli and uses sqlite for db. It's only used for dev and testing.
